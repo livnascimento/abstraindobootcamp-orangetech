@@ -8,4 +8,4 @@
 
 <h3 align="center">ℹ sobre</h3>
 
-O Abstraindo um Bootcamp é o primeiro desafio de projeto do Bootcamp [Orange Tech+ BackEnd](https://www.dio.me/bootcamp/orange-tech) da [dio](https://www.dio.me/) em parceria com o banco [Inter](https://www.bancointer.com.br/). Nesse projeto foram utilizados os conceitos de abstração, encapsulamento, herança e polimorfismo.
+O Abstraindo um Bootcamp é o primeiro desafio de projeto do Bootcamp [Orange Tech+ BackEnd](https://www.dio.me/bootcamp/orange-tech) da [dio](https://www.dio.me/) em parceria com o banco [Inter](https://www.bancointer.com.br/). Nesse projeto foram utilizados os conceitos de abstração, encapsulamento, herança e polimorfismo. Para mais informações, passo-a-passo e o código da professora Camila Cavalcante, basta acessar o [repositório](https://github.com/cami-la/desafio-poo-dio) do projeto.
